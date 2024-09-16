@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/revenant/revenant-2024-9-16-13-37-55/:/
+ - /content/revenant/revenant-2024-9-16-13-37-55/metadata.json:/metadata.json
+ - /content/revenant/revenant-2024-9-16-13-37-55/redirects.json:/redirects.json
